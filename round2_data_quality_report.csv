@@ -1,0 +1,12 @@
+,Data Type,Missing Values,Unique Values
+order,object,0,169
+picker,object,0,15
+zone,string,0,8
+start,datetime64[ns],0,289
+finish,datetime64[ns],2,282
+quantity,int64,0,3
+picking_minutes,float64,2,37
+shift,object,0,3
+experience band,object,0,3
+zone type,object,0,6
+distance band,object,0,3
